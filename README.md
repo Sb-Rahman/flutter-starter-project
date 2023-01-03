@@ -1,6 +1,4 @@
-# flutterlearninng
-
-A new Flutter project.
+# Flutter starter project
 
 ## Getting Started
 
